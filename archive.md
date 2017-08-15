@@ -2,7 +2,7 @@
 layout: page
 title: "君阅计划"
 description: "这是我的通识阅读笔记"
-header-img: "img/orange.jpg"
+header-img: "img/main-pages.jpg"
 ---
 
 
