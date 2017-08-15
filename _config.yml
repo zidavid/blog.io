@@ -1,16 +1,16 @@
 # Site settings
-title: 读立写生
+title: 生无所息
 header-img: "img/green.jpg"
 tagline: "cn"  
-description: "陈素封|读而立·写而生"  
+description: "自天然|倦于学·无所息"  
 baseurl: ""
-url: "http://cnfeat"  
+url: "http://zidavid"  
 
 # About/contact
 owner: 
-  name: " CnFeat"
-  email: CnFeat@gmail.com
-  bio: "写就是写的报酬"
+  name: " zidavid"
+  email: guotianran.zi@gmail.com
+  bio: "生无所息"
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
