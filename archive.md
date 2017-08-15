@@ -6,6 +6,7 @@ header-img: "img/main-pages.jpg"
 ---
 
 
+
 <ul class="listing">
 {% for post in site.posts %}
   {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
@@ -19,3 +20,5 @@ header-img: "img/main-pages.jpg"
   </li>
 {% endfor %}
 </ul>
+
+
