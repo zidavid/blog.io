@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 读|穷查理宝典
+title: 君阅|穷查理宝典
 date: 2016-9-23
 categories: blog
 tags: [读书笔记,理财]
