@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "君写"
-description: "知识能使一个入在本质上真正超过他人"
+description: "知识能使一个入在本质上真正超过他人。"
 header-img: "img/main-pages.jpg"
 ---
 
