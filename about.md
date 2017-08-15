@@ -2,7 +2,7 @@
 layout: page
 title: "我"
 description: "子贡倦于学，告仲尼曰：“愿有所息。”仲尼曰：“生无所息。”"
-header-img: "img/green.jpg"
+header-img: "img/main_page.jpg"
 ---
 
 
