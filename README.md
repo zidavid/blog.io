@@ -2,7 +2,7 @@
 
 2017-08-15  更新 _config.yml 可用
 
-此博客 fork 自 [Azeril](http://cnfeat.com)，感谢。
+此博客 fork 自 [CnFeat](http://cnfeat.com)，感谢。
 
 ##生无所息
 
