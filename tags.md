@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Tags"
-description: "这是俺的文章标签：）"  
+description: "这是俺的文章标签"  
 header-img: "img/main-pages.jpg"  
 ---
 
