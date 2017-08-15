@@ -11,27 +11,31 @@ header-img: "img/main-pages.jpg"
     <p><img src="http://7xlfkx.com1.z0.glb.clouddn.com/white2.jpg" align="center"></p>
 </center>
 
-###坚信
+<h1>信念</h1>
 
-- 爱和真理是我毕生所求
-- 生无所息
-- 生命是一场马拉松
-- 练心，舒缓，高亢
+<ul>
+	<li>爱和真理是我毕生所求</li>
+	<li>生无所息</li>
+	<li>生命是一场马拉松</li>
+	<li>练心，舒缓，高亢</li>
+</ul>
 
-###关注：
+<h1>关注</h1>
 
-- 写作
-- 正念
-- Python
-- 投资
-- [阳志平](http://www.yangzhiping.com/)
+<ul>
+	<li>写作</li>
+	<li>正念</li>
+	<li>Python</li>
+	<li>投资</li>
+</ul>
+
+<h1>代表作</h1>
+
+<ul>
+	<li><a href="">慢慢来……</a></li>
+</ul>
 
 
-
-###代表作：
-
-- [《无》]
-- [BuzhiNote](http://BuzhiNote.com)
 
 
 <center>
