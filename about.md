@@ -2,7 +2,7 @@
 layout: page
 title: "我"
 description: "子贡倦于学，告仲尼曰：“愿有所息。”仲尼曰：“生无所息。”"
-header-img: "img/main_page.jpg"
+header-img: "img/main-pages.jpg"
 ---
 
 
@@ -20,7 +20,9 @@ header-img: "img/main_page.jpg"
 ###关注：
 
 - 写作
+- 正念
 - Python
+- 投资
 - [阳志平](http://www.yangzhiping.com/)
 
 
