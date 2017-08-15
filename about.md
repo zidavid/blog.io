@@ -7,10 +7,6 @@ header-img: "img/main-pages.jpg"
 ---
 
 
-<center>
-  
-</center>
-
 <h1>信念</h1>
 
 <ul>
@@ -34,12 +30,6 @@ header-img: "img/main-pages.jpg"
 <ul>
 	<li><a href="">慢慢来……</a></li>
 </ul>
-
-
-
-
-
-</center>
 
 
 
