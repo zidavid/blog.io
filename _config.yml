@@ -1,16 +1,16 @@
 # Site settings
-title: 生无所息
-header-img: "img/main_page.jpg"
+title: 读立写生
+header-img: "img/green.jpg"
 tagline: "cn"  
-description: "自天然|生无所息"  
+description: "陈素封|读而立·写而生"  
 baseurl: ""
-url: "http://zidavid"  
+url: "http://cnfeat"  
 
 # About/contact
 owner: 
-  name: "ZiDavid"
-  email: guotianran.zi@gmail.com
-  bio: "倦于学·无所息"
+  name: " CnFeat"
+  email: CnFeat@gmail.com
+  bio: "写就是写的报酬"
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
@@ -43,8 +43,8 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "ZiDavid"
-      header-img: "img/main_page.jpg" # We don't want posts without a header image, that whould mean white on white
+      author: "CnFeat"
+      header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
 comments :
