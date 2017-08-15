@@ -1,14 +1,14 @@
 # Site settings
-title: 倦于学·无所息
+title: 生无所息
 header-img: "img/main_page.jpg"
 tagline: "cn"  
-description: "自天然|倦于学·无所息"  
+description: "自天然|生无所息"  
 baseurl: ""
 url: "http://zidavid"  
 
 # About/contact
 owner: 
-  name: " CnFeat"
+  name: "ZiDavid"
   email: guotianran.zi@gmail.com
   bio: "倦于学·无所息"
 
