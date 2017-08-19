@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 君阅|康熙
+title: 君阅·29|康熙
 date: 2017-08-19
 categories: blog
 tags: [康熙,传记]
