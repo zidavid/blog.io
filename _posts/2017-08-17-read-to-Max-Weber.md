@@ -4,7 +4,7 @@ title: 君阅|学术作为一种志业
 date: 2017-08-17
 categories: blog
 tags: [韦伯,学术]
-description: 《学术作为一种志业》。
+description: 《学术作为一种志业》
 ---
 
 
