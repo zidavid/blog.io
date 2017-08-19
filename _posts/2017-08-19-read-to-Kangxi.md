@@ -7,8 +7,6 @@ tags: [康熙,传记]
 description: 《康熙：重构一位中国皇帝的内心世界》
 ---
 
-<h1>《康熙》</h1>
-
 <blockquote>
 <p>朕之生也，并无灵异，及其长也，亦无非常。</p>
 </blockquote>
