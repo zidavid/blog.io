@@ -3,7 +3,7 @@ layout: post
 title: 君阅·30|你的中文，西化吗？读余光中先生文章有感
 date: 2017-09-24
 categories: blog
-tags: [余光中,中文，技法]
+tags: [余光中,中文,技法]
 description: 《怎样改进英式中文——论中文的常态与变态》
 ---
 
