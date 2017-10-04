@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 君阅|穷查理宝典
+title: 君阅21 | 穷查理宝典
 date: 2016-9-23
 categories: blog
 tags: [查理·芒格,投资,传记,认知]
