@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 君阅·31|《像外行一样思考，像专家一样实践》
+title: 君阅·31 | 像外行一样思考，像专家一样实践
 date: 2017-10-04
 categories: blog
 tags: [创新,科研]
