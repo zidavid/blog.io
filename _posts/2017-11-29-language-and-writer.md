@@ -3,7 +3,7 @@ layout: post
 title: 君文 | 语音再生，人的新生
 date: 2017-11-29
 categories: blog
-tags: [小说]
+tags: [语音 书写]
 description: 《语音再生，人的新生》
 ---
 
