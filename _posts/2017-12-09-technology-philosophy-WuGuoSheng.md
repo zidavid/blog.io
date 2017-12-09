@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 君阅 | 技术哲学讲演录
+title: 君阅33 | 技术哲学讲演录
 date: 2017-12-09
 categories: blog
 tags: [技术 哲学]
