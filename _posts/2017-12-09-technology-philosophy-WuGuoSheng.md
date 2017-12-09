@@ -9,6 +9,8 @@ description: 《技术哲学讲演录》
 
 <p>!<a href="img/WGS.png">技术哲学讲演录</a></p>
 
+`![技术哲学讲演录](mg/WGS.png)`
+
 <blockquote>
 <p>技术是人的存在方式。</p>
 
