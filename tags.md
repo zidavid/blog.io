@@ -2,7 +2,7 @@
 layout: page
 title: "Tags"
 description: "这是俺的文章标签"  
-header-img: "img/main-pages.jpg"  
+header-img: "img/main-pages1.jpg"  
 ---
 
 ##本页使用方法

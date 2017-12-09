@@ -2,7 +2,7 @@
 layout: page
 title: "君写"
 description: "知识能使一个人在本质上真正超过他人"
-header-img: "img/main-pages.jpg"
+header-img: "img/main-pages1.jpg"
 ---
 
 

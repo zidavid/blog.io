@@ -2,7 +2,7 @@
 layout: page
 title: "真知"
 description: "我的真理"
-header-img: "img/main-pages.jpg"
+header-img: "img/main-pages1.jpg"
 ---
 
 
