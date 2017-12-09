@@ -7,7 +7,7 @@ tags: [技术 哲学]
 description: 《技术哲学讲演录》
 ---
 
-<p>!<a href="zidavid.GitHub.io/img/WuGuoSheng.png">技术哲学讲演录</a></p>
+<p>!<a href="img/WuGuoSheng.png">技术哲学讲演录</a></p>
 
 <blockquote>
 <p>技术是人的存在方式。</p>
