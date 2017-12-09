@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 君阅·23|禅与摩托车维修艺术
+title: 君阅23 | 禅与摩托车维修艺术
 date: 2016-10-20
 categories: blog
 tags: [文学,哲学]

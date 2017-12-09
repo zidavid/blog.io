@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 君阅·26|近代中国社会的新陈代谢
+title: 君阅26 | 近代中国社会的新陈代谢
 date: 2017-03-10
 categories: blog
 tags: [近代史,民国]

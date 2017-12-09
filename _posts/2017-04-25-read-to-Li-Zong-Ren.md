@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 君阅·28|李宗仁回忆录
+title: 君阅28 | 李宗仁回忆录
 date: 2017-04-25
 categories: blog
 tags: [李宗仁,民国,传记]

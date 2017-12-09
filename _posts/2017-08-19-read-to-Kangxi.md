@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 君阅·29|康熙：重构一位中国皇帝的内心世界
+title: 君阅29 | 康熙：重构一位中国皇帝的内心世界
 date: 2017-08-19
 categories: blog
 tags: [康熙,传记]

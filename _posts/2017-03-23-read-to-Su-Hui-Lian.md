@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 君阅·27|寻找苏慧廉：传教士和近代中国
+title: 君阅27 | 寻找苏慧廉：传教士和近代中国
 date: 2017-03-23
 categories: blog
 tags: [近代史,传教士,传记]

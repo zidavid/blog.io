@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 君阅·25|中国近代史十五讲
+title: 君阅25 | 中国近代史十五讲
 date: 2017-01-24
 categories: blog
 tags: [近代史,民国]

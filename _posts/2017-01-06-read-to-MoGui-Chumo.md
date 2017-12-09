@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 君阅·24|魔鬼出没的世界
+title: 君阅24 | 魔鬼出没的世界
 date: 2017-01-06
 categories: blog
 tags: [科学,科普]
