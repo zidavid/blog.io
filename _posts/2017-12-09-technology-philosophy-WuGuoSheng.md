@@ -7,7 +7,7 @@ tags: [技术 哲学]
 description: 《技术哲学讲演录》
 ---
 
-<p>!<a href="(http://ww1.sinaimg.cn/large/78b44ed4gy1fmal1qz095j20ok0vyjta.jpg">技术哲学讲演录</a></p>
+<p>!<a href="http://ww1.sinaimg.cn/mw690/78b44ed4gy1fmal1qz095j20ok0vyjta.jpg">技术哲学讲演录</a></p>
 
 <blockquote>
 <p>技术是人的存在方式。</p>
