@@ -6,7 +6,7 @@
 
 ##生无所息
 
-我是自天然，博客：[zidavid.com](zidavid.com)
+我是自天然，博客：[zidavid.com](http://zidavid.com)
 
 ##坚信
 
