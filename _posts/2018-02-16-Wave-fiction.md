@@ -3,15 +3,13 @@ layout: post
 title: 君文 | 波撼岳阳城
 date: 2018-02-16
 categories: blog
-tags: [小说]
+tags: [虚构 认知写作学]
 description: 《波撼岳阳城》
 ---
 
 <blockquote>
 <p>八月湖水平，涵虚混太清。 </p>
 <p>气蒸云梦泽，波撼岳阳城。 </p>
-<p>欲济无舟楫，端居耻圣明。 </p>
-<p>坐观垂钓者，徒有羡鱼情。 </p>
 <p>——孟浩然《望洞庭湖赠张丞相》</p>
 </blockquote>
 
