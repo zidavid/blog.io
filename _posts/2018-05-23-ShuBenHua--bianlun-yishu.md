@@ -53,11 +53,7 @@ description: 《叔本华的辩论艺术》
 
 <p>下面这幅图，就是思想剑术的纲要，所谓「辩论三十八计」也都可以划分到这两（三）种模式和两种路径中。</p>
 
-<p>!<a href=""></a>(img/guge.png)</p>
-<p>!<a href="">争论的骨骼学</a>(/img/guge.png)</p>
-
-
-
+<p>!<a href=""></a>(https://ws2.sinaimg.cn/large/006tKfTcgy1frll04x58yj30e10cljrg.jpg)</p>
 
 <h2>辩论三十八计</h2>
 
