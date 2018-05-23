@@ -55,6 +55,8 @@ description: 《叔本华的辩论艺术》
 
 <p>!<a href=""></a>(https://ws2.sinaimg.cn/large/006tKfTcgy1frll04x58yj30e10cljrg.jpg)</p>
 
+![](https://ws2.sinaimg.cn/large/006tKfTcgy1frll04x58yj30e10cljrg.jpg)
+
 <h2>辩论三十八计</h2>
 
 <p>这「三十八」并非虚词，而是实实在在、言之有物的三十八种策略，能帮助你我在与人争辩时赢得胜利，或者，至少了解一些别人可能用于攻击我们的技巧。</p>
